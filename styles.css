@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://www.its.ac.id/news/wp-content/uploads/sites/2/2024/04/Tari-Tradisional-Nusantara-Yang-Terkenal-Dan-Mendunia.jpeg)
+}
+header {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+}
+.header-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.header-button:hover {
+    background-color: #0056b3;
+}
+h1 {
+    color: #fcf9f7; /* Warna oren */
+    text-align: center;
+}
+h2 {
+    color: #c65d0e; /* Warna lebih gelap untuk subjudul */
+}
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+a {
+    color: #d95f0e;
+    text-decoration: none;
+    background-color: #edd790;
+}
+a:hover {
+    text-decoration: underline;
+}
